@@ -1,0 +1,7 @@
+C:\Users\Felipe\Desktop\C#\Abstrato\Abstrato\bin\Debug\Abstrato.exe
+C:\Users\Felipe\Desktop\C#\Abstrato\Abstrato\bin\Debug\Abstrato.pdb
+C:\Users\Felipe\Desktop\C#\Abstrato\Abstrato\obj\Debug\Abstrato.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\C#\Abstrato\Abstrato\obj\Debug\Abstrato.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe\Desktop\C#\Abstrato\Abstrato\obj\Debug\Abstrato.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\C#\Abstrato\Abstrato\obj\Debug\Abstrato.exe
+C:\Users\Felipe\Desktop\C#\Abstrato\Abstrato\obj\Debug\Abstrato.pdb
